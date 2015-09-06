@@ -12,4 +12,6 @@ WikiReap is designed to be modular, lightweight, and intuitive. Many of it's fea
 
 #### Modular
 
+![](https://github.com/bitwisekibbles/wikireap/blob/master/.resources/flavors.png "WikiReap Flavours")
+
 
