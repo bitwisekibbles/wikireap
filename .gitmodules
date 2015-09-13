@@ -1,0 +1,9 @@
+[submodule "wikireap-desktop"]
+	path = wikireap-desktop
+	url = https://github.com/bitwisekibbles/wikireap-desktop.git
+[submodule "wikireap-mobile"]
+	path = wikireap-mobile
+	url = https://github.com/bitwisekibbles/wikireap-mobile.git
+[submodule "wikireap-web"]
+	path = wikireap-web
+	url = https://github.com/bitwisekibbles/wikireap-web.git
